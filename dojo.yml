@@ -7,7 +7,7 @@ type: example
 modules:
   - import:
       dojo: linux-luminarium
-      module: hello
+  #    module: hello
 
   #- import:
   #    dojo: example
