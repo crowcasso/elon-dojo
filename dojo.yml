@@ -19,10 +19,12 @@ modules:
       - import:
           dojo: linux-luminarium
           module: hello
+          challenge: earth
         
       - import:
           dojo: linux-luminarium
           module: paths
+          challenge: mars
 
   #- id: planet
   #  name: Planet
