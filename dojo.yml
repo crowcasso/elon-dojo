@@ -4,8 +4,9 @@ type: example
 
 modules:
   - id: linux
-      dojo: linux-luminarium
-      module: paths
+  name: Linux
+  description: My description
+
       
   - import:
       dojo: linux-luminarium
