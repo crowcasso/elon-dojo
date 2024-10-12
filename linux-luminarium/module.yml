@@ -1,6 +1,0 @@
-name: Linux Luminarium
-
-modules:
-  - import:
-      dojo: linux-luminarium
-      module: hello
