@@ -3,10 +3,10 @@ name: Elon Dojo
 type: course
 
 modules:
-  - id: linux-luminarium
- # - import:
- #     dojo: linux-luminarium
- #     module: hello
+ # - id: linux-luminarium
+  - import:
+      dojo: linux-luminarium
+      module: hello
  # - import:
  #     dojo: linux-luminarium
  #     module: paths
