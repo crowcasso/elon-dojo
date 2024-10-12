@@ -5,7 +5,7 @@ type: course
 modules:
   - import:
       dojo: linux-luminarium
- #     module: hello
+      module: *
  # - import:
  #     dojo: linux-luminarium
  #     module: paths
