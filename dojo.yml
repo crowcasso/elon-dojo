@@ -13,18 +13,14 @@ modules:
   - id: linux
     name: Linux
     description: linux stuff
-
-    challenges:
     
-      - import:
+    - import:
           dojo: linux-luminarium
           module: hello
-          challenge: earth
         
-      - import:
+    - import:
           dojo: linux-luminarium
           module: paths
-          challenge: mars
 
   #- id: planet
   #  name: Planet
