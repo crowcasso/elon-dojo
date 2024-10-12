@@ -11,19 +11,18 @@ modules:
       module: paths
 
   - id: linux
-    name: linux
+    name: Linux
     description: linux stuff
 
     challenges:
+    
       - import:
           dojo: linux-luminarium
           module: hello
+        
       - import:
           dojo: linux-luminarium
           module: paths
-  #- import:
-  #    dojo: example
-  #    module: hello
 
   #- id: planet
   #  name: Planet
