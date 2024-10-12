@@ -1,6 +1,4 @@
-id: linux-luminarium
 name: Linux Luminarium
-type: example
 
 modules:
   - import:
