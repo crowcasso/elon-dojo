@@ -5,13 +5,13 @@ name: Elon Dojo
 type: example
 
 modules:
-  - import:
-      dojo: linux-luminarium
-      module: hello
+  #- import:
+  #    dojo: linux-luminarium
+  #    module: hello
 
-  - import:
-      dojo: example
-      module: hello
+  #- import:
+  #    dojo: example
+  #    module: hello
 
   - id: planet
     name: Planet
