@@ -1,4 +1,4 @@
 name: Linux
-challenges:
-  - id: linux-luminarium
-    name: Linux Luminarium
+  - import:
+      dojo: linux-luminarium
+      module: hello
