@@ -1,4 +1,3 @@
 id: linux
 name: Linux Stuff
-modules:
   - id: "linux-luminarium"
