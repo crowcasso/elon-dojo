@@ -1,8 +1,1 @@
 id: linux
-name: Linux Luminarium
-type: course
-
-modules:
-  - import: 
-      dojo: linux-luminarium
-      module: hello
