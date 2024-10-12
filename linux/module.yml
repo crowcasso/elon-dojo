@@ -1,4 +1,5 @@
 name: Linux
+modules:
   - import:
       dojo: linux-luminarium
       module: hello
