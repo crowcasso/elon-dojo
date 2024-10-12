@@ -14,20 +14,20 @@ modules:
   #    dojo: example
   #    module: hello
 
-  - id: planet
-    name: Planet
-    description: A couple planets.
+  #- id: planet
+  #  name: Planet
+  #  description: A couple planets.
 
-    challenges:
+  #  challenges:
 
-      - import:
-          dojo: example
-          module: world
-          challenge: earth
+  #    - import:
+  #        dojo: example
+  #        module: world
+  #        challenge: earth
 
-      - import:
-          dojo: example
-          module: world
-          challenge: mars
-        name: Martian Planet
-        description: This is a martian planet... mars.
+  #    - import:
+  #        dojo: example
+  #        module: world
+  #        challenge: mars
+  #      name: Martian Planet
+  #      description: This is a martian planet... mars.
