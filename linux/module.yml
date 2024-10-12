@@ -1,6 +1,6 @@
 id: linux
 name: Linux
-modules:
+challenges:
   - import:
       dojo: linux-luminarium
       module: hello
