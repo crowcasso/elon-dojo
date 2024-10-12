@@ -7,7 +7,8 @@ type: example
 modules:
   - import:
       dojo: linux-luminarium
-  #    module: hello
+      module: hello
+      module: paths
 
   #- import:
   #    dojo: example
