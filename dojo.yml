@@ -2,7 +2,7 @@ id: elonu
 
 name: Elon Dojo
 
-type: example
+type: course
 
 modules:
   - import:
