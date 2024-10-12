@@ -2,4 +2,7 @@ id: linux-luminarium
 name: Linux Luminarium
 type: linux
 
-
+modules:
+  - import:
+      dojo: linux-luminarium
+      module: hello
