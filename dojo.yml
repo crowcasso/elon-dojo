@@ -4,8 +4,8 @@ type: example
 
 modules:
   - id: linux
-  name: Linux
-  description: My description
+    name: Linux
+    description: My description
 
       
   - import:
