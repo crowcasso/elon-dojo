@@ -1,6 +1,6 @@
 id: elonu
 name: Elon Dojo
-type: course
+type: example
 
 modules:
   - id: linux
