@@ -6,12 +6,11 @@ modules:
   - id: linux
     name: Linux
     description: My description
-    challenges:
+    modules:
       - import:
         dojo: linux-luminarium
         module: paths
 
-      
   - import:
       dojo: linux-luminarium
       module: hello
