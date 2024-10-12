@@ -10,6 +10,17 @@ modules:
       dojo: linux-luminarium
       module: paths
 
+  - id: linux
+    name: linux
+    description: linux stuff
+
+    challenges:
+      - import:
+          dojo: linux-luminarium
+          module: hello
+      - import:
+          dojo: linux-luminarium
+          module: paths
   #- import:
   #    dojo: example
   #    module: hello
